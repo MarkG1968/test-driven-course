@@ -1,0 +1,29 @@
+Knowlwdge Map
+Tag Cloud
+Passive Story
+
+Put Behaviour where data is/knowledge
+
+Collaborator: Characters interact
+
+CRC - Class-Responsibility-Collaboration
+
+Forget about structural issues - is a/has a - thing about collaborations
+
+All the information is in the original tests
+
+Encapsulation - putting 
+
+Data Driven Design
+	data in one type of objects
+	behaviour in controller, etc objects
+
+Tell Don't Ask
+
+Advice is not no getters and setters - aim is fewer colloborations
+
+Mocks are fine with low number of collaborators - will hurt you in Data Driven Design
+
+Outside In - style of development
+
+Interaction tests (Behaviour) vs. Assertion tests (State)
